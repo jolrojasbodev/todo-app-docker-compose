@@ -1,0 +1,8 @@
+# Excluye archivos innecesarios del contexto de build de Docker.
+node_modules
+.git
+.gitignore
+*.md
+
+# Excluye el archivo de variables de entorno
+.env
